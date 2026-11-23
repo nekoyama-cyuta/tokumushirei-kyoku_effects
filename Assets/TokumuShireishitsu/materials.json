@@ -1,0 +1,1687 @@
+{
+ "materials": [
+  {
+   "name": "glass",
+   "baseColor": [
+    0.82,
+    0.9,
+    0.96,
+    1.0
+   ],
+   "metallic": 0.0,
+   "roughness": 0.015,
+   "alpha": 1.0,
+   "transmission": 1.0,
+   "emission": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "emissionStrength": 0.0,
+   "normalStrength": 1.0,
+   "baseColorMap": "",
+   "roughnessMap": "",
+   "normalMap": "",
+   "metallicSmoothnessMap": "",
+   "maskMap": ""
+  },
+  {
+   "name": "アセテート",
+   "baseColor": [
+    0.006,
+    0.006,
+    0.007,
+    1.0
+   ],
+   "metallic": 0.0,
+   "roughness": 0.1,
+   "alpha": 1.0,
+   "transmission": 0.0,
+   "emission": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "emissionStrength": 0.0,
+   "normalStrength": 1.0,
+   "baseColorMap": "",
+   "roughnessMap": "",
+   "normalMap": "",
+   "metallicSmoothnessMap": "",
+   "maskMap": ""
+  },
+  {
+   "name": "ウレタン_黒",
+   "baseColor": [
+    0.012,
+    0.012,
+    0.013,
+    1.0
+   ],
+   "metallic": 0.0,
+   "roughness": 0.95,
+   "alpha": 1.0,
+   "transmission": 0.0,
+   "emission": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "emissionStrength": 0.0,
+   "normalStrength": 1.0,
+   "baseColorMap": "",
+   "roughnessMap": "",
+   "normalMap": "",
+   "metallicSmoothnessMap": "",
+   "maskMap": ""
+  },
+  {
+   "name": "ガラス_スモーク",
+   "baseColor": [
+    0.12,
+    0.14,
+    0.17,
+    1.0
+   ],
+   "metallic": 0.0,
+   "roughness": 0.08,
+   "alpha": 1.0,
+   "transmission": 0.0,
+   "emission": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "emissionStrength": 0.0,
+   "normalStrength": 1.0,
+   "baseColorMap": "",
+   "roughnessMap": "",
+   "normalMap": "",
+   "metallicSmoothnessMap": "",
+   "maskMap": ""
+  },
+  {
+   "name": "ガラス_曇り",
+   "baseColor": [
+    0.75,
+    0.82,
+    0.9,
+    1.0
+   ],
+   "metallic": 0.0,
+   "roughness": 0.38,
+   "alpha": 1.0,
+   "transmission": 1.0,
+   "emission": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "emissionStrength": 0.0,
+   "normalStrength": 1.0,
+   "baseColorMap": "",
+   "roughnessMap": "",
+   "normalMap": "",
+   "metallicSmoothnessMap": "",
+   "maskMap": ""
+  },
+  {
+   "name": "キーキャップ",
+   "baseColor": [
+    0.016,
+    0.016,
+    0.018,
+    1.0
+   ],
+   "metallic": 0.0,
+   "roughness": 0.36,
+   "alpha": 1.0,
+   "transmission": 0.0,
+   "emission": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "emissionStrength": 0.0,
+   "normalStrength": 1.0,
+   "baseColorMap": "",
+   "roughnessMap": "",
+   "normalMap": "",
+   "metallicSmoothnessMap": "",
+   "maskMap": ""
+  },
+  {
+   "name": "コルク",
+   "baseColor": [
+    0.26,
+    0.17,
+    0.09,
+    1.0
+   ],
+   "metallic": 0.0,
+   "roughness": 0.92,
+   "alpha": 1.0,
+   "transmission": 0.0,
+   "emission": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "emissionStrength": 0.0,
+   "normalStrength": 1.0,
+   "baseColorMap": "",
+   "roughnessMap": "",
+   "normalMap": "",
+   "metallicSmoothnessMap": "",
+   "maskMap": ""
+  },
+  {
+   "name": "コンクリート_暗",
+   "baseColor": [
+    0.03,
+    0.032,
+    0.036,
+    1.0
+   ],
+   "metallic": 0.0,
+   "roughness": 0.55,
+   "alpha": 1.0,
+   "transmission": 0.0,
+   "emission": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "emissionStrength": 0.0,
+   "normalStrength": 1.0,
+   "baseColorMap": "Textures/コンクリート_暗_BaseColor.png",
+   "roughnessMap": "Textures/コンクリート_暗_Roughness.png",
+   "normalMap": "",
+   "metallicSmoothnessMap": "Textures/コンクリート_暗_MetallicSmoothness.png",
+   "maskMap": "Textures/コンクリート_暗_MaskMap.png",
+   "tileSize": 4.8,
+   "coordMode": "WORLD"
+  },
+  {
+   "name": "ゴム_黒",
+   "baseColor": [
+    0.012,
+    0.012,
+    0.012,
+    1.0
+   ],
+   "metallic": 0.0,
+   "roughness": 0.82,
+   "alpha": 1.0,
+   "transmission": 0.0,
+   "emission": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "emissionStrength": 0.0,
+   "normalStrength": 1.0,
+   "baseColorMap": "",
+   "roughnessMap": "Textures/ゴム_黒_Roughness.png",
+   "normalMap": "Textures/ゴム_黒_Normal.png",
+   "metallicSmoothnessMap": "Textures/ゴム_黒_MetallicSmoothness.png",
+   "maskMap": "Textures/ゴム_黒_MaskMap.png",
+   "tileSize": 0.083,
+   "coordMode": "OBJECT"
+  },
+  {
+   "name": "サイン_淡発光",
+   "baseColor": [
+    0.05,
+    0.06,
+    0.075,
+    1.0
+   ],
+   "metallic": 0.0,
+   "roughness": 0.4,
+   "alpha": 1.0,
+   "transmission": 0.0,
+   "emission": [
+    0.55,
+    0.75,
+    1.0
+   ],
+   "emissionStrength": 1.1,
+   "normalStrength": 1.0,
+   "baseColorMap": "",
+   "roughnessMap": "",
+   "normalMap": "",
+   "metallicSmoothnessMap": "",
+   "maskMap": ""
+  },
+  {
+   "name": "デスク画面_UI",
+   "baseColor": [
+    0.004,
+    0.006,
+    0.01,
+    1.0
+   ],
+   "metallic": 0.0,
+   "roughness": 0.18,
+   "alpha": 1.0,
+   "transmission": 0.0,
+   "emission": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "emissionStrength": 1.6,
+   "normalStrength": 1.0,
+   "baseColorMap": "",
+   "roughnessMap": "",
+   "normalMap": "",
+   "metallicSmoothnessMap": "",
+   "maskMap": "",
+   "emissionMap": "Textures/モニター表示_仮UI.png"
+  },
+  {
+   "name": "デスク画面_工作員",
+   "baseColor": [
+    0.004,
+    0.006,
+    0.01,
+    1.0
+   ],
+   "metallic": 0.0,
+   "roughness": 0.16,
+   "alpha": 1.0,
+   "transmission": 0.0,
+   "emission": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "emissionStrength": 1.5,
+   "normalStrength": 1.0,
+   "baseColorMap": "",
+   "roughnessMap": "",
+   "normalMap": "",
+   "metallicSmoothnessMap": "",
+   "maskMap": "",
+   "emissionMap": "Textures/モニター表示_仮UI.png"
+  },
+  {
+   "name": "モニター_表示",
+   "baseColor": [
+    0.004,
+    0.006,
+    0.01,
+    1.0
+   ],
+   "metallic": 0.0,
+   "roughness": 0.2,
+   "alpha": 1.0,
+   "transmission": 0.0,
+   "emission": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "emissionStrength": 5.5,
+   "normalStrength": 1.0,
+   "baseColorMap": "",
+   "roughnessMap": "",
+   "normalMap": "",
+   "metallicSmoothnessMap": "",
+   "maskMap": "",
+   "emissionMap": "Textures/モニター表示_仮UI.png"
+  },
+  {
+   "name": "レンズ_眼鏡",
+   "baseColor": [
+    0.9,
+    0.92,
+    0.95,
+    1.0
+   ],
+   "metallic": 0.0,
+   "roughness": 0.02,
+   "alpha": 1.0,
+   "transmission": 1.0,
+   "emission": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "emissionStrength": 0.0,
+   "normalStrength": 1.0,
+   "baseColorMap": "",
+   "roughnessMap": "",
+   "normalMap": "",
+   "metallicSmoothnessMap": "",
+   "maskMap": ""
+  },
+  {
+   "name": "レンズ_黒",
+   "baseColor": [
+    0.003,
+    0.004,
+    0.006,
+    1.0
+   ],
+   "metallic": 0.0,
+   "roughness": 0.04,
+   "alpha": 1.0,
+   "transmission": 0.0,
+   "emission": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "emissionStrength": 0.0,
+   "normalStrength": 1.0,
+   "baseColorMap": "",
+   "roughnessMap": "",
+   "normalMap": "",
+   "metallicSmoothnessMap": "",
+   "maskMap": ""
+  },
+  {
+   "name": "保温材",
+   "baseColor": [
+    0.05,
+    0.053,
+    0.058,
+    1.0
+   ],
+   "metallic": 0.0,
+   "roughness": 0.7,
+   "alpha": 1.0,
+   "transmission": 0.0,
+   "emission": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "emissionStrength": 0.0,
+   "normalStrength": 1.0,
+   "baseColorMap": "",
+   "roughnessMap": "",
+   "normalMap": "",
+   "metallicSmoothnessMap": "",
+   "maskMap": ""
+  },
+  {
+   "name": "写真紙",
+   "baseColor": [
+    0.5,
+    0.5,
+    0.5,
+    1.0
+   ],
+   "metallic": 0.0,
+   "roughness": 0.22,
+   "alpha": 1.0,
+   "transmission": 0.0,
+   "emission": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "emissionStrength": 0.0,
+   "normalStrength": 1.0,
+   "baseColorMap": "Textures/写真_監視.png",
+   "roughnessMap": "",
+   "normalMap": "",
+   "metallicSmoothnessMap": "",
+   "maskMap": ""
+  },
+  {
+   "name": "印_赤",
+   "baseColor": [
+    0.5,
+    0.03,
+    0.03,
+    1.0
+   ],
+   "metallic": 0.0,
+   "roughness": 0.7,
+   "alpha": 1.0,
+   "transmission": 0.0,
+   "emission": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "emissionStrength": 0.0,
+   "normalStrength": 1.0,
+   "baseColorMap": "",
+   "roughnessMap": "",
+   "normalMap": "",
+   "metallicSmoothnessMap": "",
+   "maskMap": ""
+  },
+  {
+   "name": "印字_白",
+   "baseColor": [
+    0.62,
+    0.63,
+    0.65,
+    1.0
+   ],
+   "metallic": 0.0,
+   "roughness": 0.5,
+   "alpha": 1.0,
+   "transmission": 0.0,
+   "emission": [
+    0.55,
+    0.75,
+    1.0
+   ],
+   "emissionStrength": 0.55,
+   "normalStrength": 1.0,
+   "baseColorMap": "",
+   "roughnessMap": "",
+   "normalMap": "",
+   "metallicSmoothnessMap": "",
+   "maskMap": ""
+  },
+  {
+   "name": "厚紙_表紙",
+   "baseColor": [
+    0.22,
+    0.035,
+    0.03,
+    1.0
+   ],
+   "metallic": 0.0,
+   "roughness": 0.68,
+   "alpha": 1.0,
+   "transmission": 0.0,
+   "emission": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "emissionStrength": 0.0,
+   "normalStrength": 1.0,
+   "baseColorMap": "",
+   "roughnessMap": "",
+   "normalMap": "",
+   "metallicSmoothnessMap": "",
+   "maskMap": ""
+  },
+  {
+   "name": "吸音パネル",
+   "baseColor": [
+    0.012,
+    0.013,
+    0.015,
+    1.0
+   ],
+   "metallic": 0.0,
+   "roughness": 0.85,
+   "alpha": 1.0,
+   "transmission": 0.0,
+   "emission": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "emissionStrength": 0.0,
+   "normalStrength": 1.0,
+   "baseColorMap": "",
+   "roughnessMap": "",
+   "normalMap": "",
+   "metallicSmoothnessMap": "",
+   "maskMap": ""
+  },
+  {
+   "name": "土",
+   "baseColor": [
+    0.01,
+    0.008,
+    0.006,
+    1.0
+   ],
+   "metallic": 0.0,
+   "roughness": 0.95,
+   "alpha": 1.0,
+   "transmission": 0.0,
+   "emission": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "emissionStrength": 0.0,
+   "normalStrength": 1.0,
+   "baseColorMap": "",
+   "roughnessMap": "",
+   "normalMap": "",
+   "metallicSmoothnessMap": "",
+   "maskMap": ""
+  },
+  {
+   "name": "塗装_グレー",
+   "baseColor": [
+    0.075,
+    0.08,
+    0.09,
+    1.0
+   ],
+   "metallic": 0.2,
+   "roughness": 0.42,
+   "alpha": 1.0,
+   "transmission": 0.0,
+   "emission": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "emissionStrength": 0.0,
+   "normalStrength": 1.0,
+   "baseColorMap": "",
+   "roughnessMap": "Textures/塗装_グレー_Roughness.png",
+   "normalMap": "Textures/塗装_グレー_Normal.png",
+   "metallicSmoothnessMap": "Textures/塗装_グレー_MetallicSmoothness.png",
+   "maskMap": "Textures/塗装_グレー_MaskMap.png",
+   "tileSize": 0.385,
+   "coordMode": "OBJECT"
+  },
+  {
+   "name": "塗装_壁灰",
+   "baseColor": [
+    0.05,
+    0.053,
+    0.058,
+    1.0
+   ],
+   "metallic": 0.05,
+   "roughness": 0.62,
+   "alpha": 1.0,
+   "transmission": 0.0,
+   "emission": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "emissionStrength": 0.0,
+   "normalStrength": 1.0,
+   "baseColorMap": "",
+   "roughnessMap": "",
+   "normalMap": "",
+   "metallicSmoothnessMap": "",
+   "maskMap": ""
+  },
+  {
+   "name": "塗装_扉",
+   "baseColor": [
+    0.03,
+    0.032,
+    0.038,
+    1.0
+   ],
+   "metallic": 0.25,
+   "roughness": 0.46,
+   "alpha": 1.0,
+   "transmission": 0.0,
+   "emission": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "emissionStrength": 0.0,
+   "normalStrength": 1.0,
+   "baseColorMap": "",
+   "roughnessMap": "Textures/塗装_扉_Roughness.png",
+   "normalMap": "Textures/塗装_扉_Normal.png",
+   "metallicSmoothnessMap": "Textures/塗装_扉_MetallicSmoothness.png",
+   "maskMap": "Textures/塗装_扉_MaskMap.png",
+   "tileSize": 0.357,
+   "coordMode": "OBJECT"
+  },
+  {
+   "name": "塗装_文字灰",
+   "baseColor": [
+    0.13,
+    0.14,
+    0.155,
+    1.0
+   ],
+   "metallic": 0.0,
+   "roughness": 0.6,
+   "alpha": 1.0,
+   "transmission": 0.0,
+   "emission": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "emissionStrength": 0.0,
+   "normalStrength": 1.0,
+   "baseColorMap": "",
+   "roughnessMap": "",
+   "normalMap": "",
+   "metallicSmoothnessMap": "",
+   "maskMap": ""
+  },
+  {
+   "name": "塗装_消火赤",
+   "baseColor": [
+    0.13,
+    0.012,
+    0.012,
+    1.0
+   ],
+   "metallic": 0.1,
+   "roughness": 0.38,
+   "alpha": 1.0,
+   "transmission": 0.0,
+   "emission": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "emissionStrength": 0.0,
+   "normalStrength": 1.0,
+   "baseColorMap": "",
+   "roughnessMap": "",
+   "normalMap": "",
+   "metallicSmoothnessMap": "",
+   "maskMap": ""
+  },
+  {
+   "name": "塗装_警告帯",
+   "baseColor": [
+    0.6,
+    0.42,
+    0.02,
+    1.0
+   ],
+   "metallic": 0.0,
+   "roughness": 0.5,
+   "alpha": 1.0,
+   "transmission": 0.0,
+   "emission": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "emissionStrength": 0.0,
+   "normalStrength": 1.0,
+   "baseColorMap": "",
+   "roughnessMap": "",
+   "normalMap": "",
+   "metallicSmoothnessMap": "",
+   "maskMap": ""
+  },
+  {
+   "name": "塗装_黄",
+   "baseColor": [
+    0.6,
+    0.42,
+    0.02,
+    1.0
+   ],
+   "metallic": 0.0,
+   "roughness": 0.5,
+   "alpha": 1.0,
+   "transmission": 0.0,
+   "emission": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "emissionStrength": 0.0,
+   "normalStrength": 1.0,
+   "baseColorMap": "",
+   "roughnessMap": "",
+   "normalMap": "",
+   "metallicSmoothnessMap": "",
+   "maskMap": ""
+  },
+  {
+   "name": "塗装_黒",
+   "baseColor": [
+    0.018,
+    0.019,
+    0.022,
+    1.0
+   ],
+   "metallic": 0.1,
+   "roughness": 0.48,
+   "alpha": 1.0,
+   "transmission": 0.0,
+   "emission": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "emissionStrength": 0.0,
+   "normalStrength": 1.0,
+   "baseColorMap": "",
+   "roughnessMap": "Textures/塗装_黒_Roughness.png",
+   "normalMap": "Textures/塗装_黒_Normal.png",
+   "metallicSmoothnessMap": "Textures/塗装_黒_MetallicSmoothness.png",
+   "maskMap": "Textures/塗装_黒_MaskMap.png",
+   "tileSize": 0.294,
+   "coordMode": "OBJECT"
+  },
+  {
+   "name": "天井_マット黒",
+   "baseColor": [
+    0.006,
+    0.006,
+    0.007,
+    1.0
+   ],
+   "metallic": 0.0,
+   "roughness": 0.92,
+   "alpha": 1.0,
+   "transmission": 0.0,
+   "emission": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "emissionStrength": 0.0,
+   "normalStrength": 1.0,
+   "baseColorMap": "",
+   "roughnessMap": "",
+   "normalMap": "",
+   "metallicSmoothnessMap": "",
+   "maskMap": ""
+  },
+  {
+   "name": "布_暗灰",
+   "baseColor": [
+    0.03,
+    0.032,
+    0.037,
+    1.0
+   ],
+   "metallic": 0.0,
+   "roughness": 0.9,
+   "alpha": 1.0,
+   "transmission": 0.0,
+   "emission": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "emissionStrength": 0.0,
+   "normalStrength": 1.0,
+   "baseColorMap": "",
+   "roughnessMap": "",
+   "normalMap": "",
+   "metallicSmoothnessMap": "",
+   "maskMap": ""
+  },
+  {
+   "name": "床_黒研磨",
+   "baseColor": [
+    0.008,
+    0.009,
+    0.011,
+    1.0
+   ],
+   "metallic": 0.0,
+   "roughness": 0.11,
+   "alpha": 1.0,
+   "transmission": 0.0,
+   "emission": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "emissionStrength": 0.0,
+   "normalStrength": 1.0,
+   "baseColorMap": "Textures/床_黒研磨_BaseColor.png",
+   "roughnessMap": "Textures/床_黒研磨_Roughness.png",
+   "normalMap": "",
+   "metallicSmoothnessMap": "Textures/床_黒研磨_MetallicSmoothness.png",
+   "maskMap": "Textures/床_黒研磨_MaskMap.png",
+   "tileSize": 4.8,
+   "coordMode": "WORLD"
+  },
+  {
+   "name": "情報球_表示",
+   "baseColor": [
+    0.004,
+    0.006,
+    0.01,
+    1.0
+   ],
+   "metallic": 0.0,
+   "roughness": 0.12,
+   "alpha": 1.0,
+   "transmission": 0.0,
+   "emission": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "emissionStrength": 2.4,
+   "normalStrength": 1.0,
+   "baseColorMap": "",
+   "roughnessMap": "",
+   "normalMap": "",
+   "metallicSmoothnessMap": "",
+   "maskMap": "",
+   "emissionMap": "Textures/情報球表示.png"
+  },
+  {
+   "name": "木_黒檀",
+   "baseColor": [
+    0.03,
+    0.02,
+    0.014,
+    1.0
+   ],
+   "metallic": 0.0,
+   "roughness": 0.3,
+   "alpha": 1.0,
+   "transmission": 0.0,
+   "emission": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "emissionStrength": 0.0,
+   "normalStrength": 1.0,
+   "baseColorMap": "Textures/木_黒檀_BaseColor.png",
+   "roughnessMap": "",
+   "normalMap": "",
+   "metallicSmoothnessMap": "",
+   "maskMap": "",
+   "tileSize": 1.0,
+   "coordMode": "UV"
+  },
+  {
+   "name": "樹脂_艶黒",
+   "baseColor": [
+    0.009,
+    0.009,
+    0.01,
+    1.0
+   ],
+   "metallic": 0.0,
+   "roughness": 0.1,
+   "alpha": 1.0,
+   "transmission": 0.0,
+   "emission": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "emissionStrength": 0.0,
+   "normalStrength": 1.0,
+   "baseColorMap": "",
+   "roughnessMap": "",
+   "normalMap": "",
+   "metallicSmoothnessMap": "",
+   "maskMap": ""
+  },
+  {
+   "name": "樹脂_黒",
+   "baseColor": [
+    0.016,
+    0.017,
+    0.019,
+    1.0
+   ],
+   "metallic": 0.0,
+   "roughness": 0.32,
+   "alpha": 1.0,
+   "transmission": 0.0,
+   "emission": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "emissionStrength": 0.0,
+   "normalStrength": 1.0,
+   "baseColorMap": "",
+   "roughnessMap": "Textures/樹脂_黒_Roughness.png",
+   "normalMap": "Textures/樹脂_黒_Normal.png",
+   "metallicSmoothnessMap": "Textures/樹脂_黒_MetallicSmoothness.png",
+   "maskMap": "Textures/樹脂_黒_MaskMap.png",
+   "tileSize": 0.143,
+   "coordMode": "OBJECT"
+  },
+  {
+   "name": "珈琲",
+   "baseColor": [
+    0.028,
+    0.011,
+    0.004,
+    1.0
+   ],
+   "metallic": 0.0,
+   "roughness": 0.06,
+   "alpha": 1.0,
+   "transmission": 0.0,
+   "emission": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "emissionStrength": 0.0,
+   "normalStrength": 1.0,
+   "baseColorMap": "",
+   "roughnessMap": "",
+   "normalMap": "",
+   "metallicSmoothnessMap": "",
+   "maskMap": ""
+  },
+  {
+   "name": "発光_LED琥珀",
+   "baseColor": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "metallic": 0.0,
+   "roughness": 0.3,
+   "alpha": 1.0,
+   "transmission": 0.0,
+   "emission": [
+    1.0,
+    0.55,
+    0.08
+   ],
+   "emissionStrength": 25.0,
+   "normalStrength": 1.0,
+   "baseColorMap": "",
+   "roughnessMap": "",
+   "normalMap": "",
+   "metallicSmoothnessMap": "",
+   "maskMap": ""
+  },
+  {
+   "name": "発光_LED緑",
+   "baseColor": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "metallic": 0.0,
+   "roughness": 0.3,
+   "alpha": 1.0,
+   "transmission": 0.0,
+   "emission": [
+    0.1,
+    1.0,
+    0.35
+   ],
+   "emissionStrength": 25.0,
+   "normalStrength": 1.0,
+   "baseColorMap": "",
+   "roughnessMap": "",
+   "normalMap": "",
+   "metallicSmoothnessMap": "",
+   "maskMap": ""
+  },
+  {
+   "name": "発光_LED赤",
+   "baseColor": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "metallic": 0.0,
+   "roughness": 0.3,
+   "alpha": 1.0,
+   "transmission": 0.0,
+   "emission": [
+    1.0,
+    0.06,
+    0.04
+   ],
+   "emissionStrength": 30.0,
+   "normalStrength": 1.0,
+   "baseColorMap": "",
+   "roughnessMap": "",
+   "normalMap": "",
+   "metallicSmoothnessMap": "",
+   "maskMap": ""
+  },
+  {
+   "name": "発光_LED青",
+   "baseColor": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "metallic": 0.0,
+   "roughness": 0.3,
+   "alpha": 1.0,
+   "transmission": 0.0,
+   "emission": [
+    0.25,
+    0.55,
+    1.0
+   ],
+   "emissionStrength": 30.0,
+   "normalStrength": 1.0,
+   "baseColorMap": "",
+   "roughnessMap": "",
+   "normalMap": "",
+   "metallicSmoothnessMap": "",
+   "maskMap": ""
+  },
+  {
+   "name": "発光_作業灯",
+   "baseColor": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "metallic": 0.0,
+   "roughness": 0.4,
+   "alpha": 1.0,
+   "transmission": 0.0,
+   "emission": [
+    0.8,
+    0.9,
+    1.0
+   ],
+   "emissionStrength": 3.5,
+   "normalStrength": 1.0,
+   "baseColorMap": "",
+   "roughnessMap": "",
+   "normalMap": "",
+   "metallicSmoothnessMap": "",
+   "maskMap": ""
+  },
+  {
+   "name": "発光_床ライン",
+   "baseColor": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "metallic": 0.0,
+   "roughness": 0.4,
+   "alpha": 1.0,
+   "transmission": 0.0,
+   "emission": [
+    0.55,
+    0.78,
+    1.0
+   ],
+   "emissionStrength": 2.4,
+   "normalStrength": 1.0,
+   "baseColorMap": "",
+   "roughnessMap": "",
+   "normalMap": "",
+   "metallicSmoothnessMap": "",
+   "maskMap": ""
+  },
+  {
+   "name": "発光_暖色",
+   "baseColor": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "metallic": 0.0,
+   "roughness": 0.4,
+   "alpha": 1.0,
+   "transmission": 0.0,
+   "emission": [
+    1.0,
+    0.55,
+    0.25
+   ],
+   "emissionStrength": 1.3,
+   "normalStrength": 1.0,
+   "baseColorMap": "",
+   "roughnessMap": "",
+   "normalMap": "",
+   "metallicSmoothnessMap": "",
+   "maskMap": ""
+  },
+  {
+   "name": "発光_白",
+   "baseColor": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "metallic": 0.0,
+   "roughness": 0.4,
+   "alpha": 1.0,
+   "transmission": 0.0,
+   "emission": [
+    0.82,
+    0.92,
+    1.0
+   ],
+   "emissionStrength": 22.0,
+   "normalStrength": 1.0,
+   "baseColorMap": "",
+   "roughnessMap": "",
+   "normalMap": "",
+   "metallicSmoothnessMap": "",
+   "maskMap": ""
+  },
+  {
+   "name": "発光_誘導緑",
+   "baseColor": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "metallic": 0.0,
+   "roughness": 0.4,
+   "alpha": 1.0,
+   "transmission": 0.0,
+   "emission": [
+    0.1,
+    1.0,
+    0.45
+   ],
+   "emissionStrength": 8.0,
+   "normalStrength": 1.0,
+   "baseColorMap": "",
+   "roughnessMap": "",
+   "normalMap": "",
+   "metallicSmoothnessMap": "",
+   "maskMap": ""
+  },
+  {
+   "name": "発光_青白",
+   "baseColor": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "metallic": 0.0,
+   "roughness": 0.4,
+   "alpha": 1.0,
+   "transmission": 0.0,
+   "emission": [
+    0.55,
+    0.78,
+    1.0
+   ],
+   "emissionStrength": 14.0,
+   "normalStrength": 1.0,
+   "baseColorMap": "",
+   "roughnessMap": "",
+   "normalMap": "",
+   "metallicSmoothnessMap": "",
+   "maskMap": ""
+  },
+  {
+   "name": "糸_黒灰",
+   "baseColor": [
+    0.05,
+    0.05,
+    0.055,
+    1.0
+   ],
+   "metallic": 0.0,
+   "roughness": 0.75,
+   "alpha": 1.0,
+   "transmission": 0.0,
+   "emission": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "emissionStrength": 0.0,
+   "normalStrength": 1.0,
+   "baseColorMap": "",
+   "roughnessMap": "",
+   "normalMap": "",
+   "metallicSmoothnessMap": "",
+   "maskMap": ""
+  },
+  {
+   "name": "紙_機密",
+   "baseColor": [
+    0.55,
+    0.5,
+    0.38,
+    1.0
+   ],
+   "metallic": 0.0,
+   "roughness": 0.8,
+   "alpha": 1.0,
+   "transmission": 0.0,
+   "emission": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "emissionStrength": 0.0,
+   "normalStrength": 1.0,
+   "baseColorMap": "",
+   "roughnessMap": "",
+   "normalMap": "",
+   "metallicSmoothnessMap": "",
+   "maskMap": ""
+  },
+  {
+   "name": "紙_白",
+   "baseColor": [
+    0.72,
+    0.71,
+    0.67,
+    1.0
+   ],
+   "metallic": 0.0,
+   "roughness": 0.86,
+   "alpha": 1.0,
+   "transmission": 0.0,
+   "emission": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "emissionStrength": 0.0,
+   "normalStrength": 1.0,
+   "baseColorMap": "",
+   "roughnessMap": "",
+   "normalMap": "",
+   "metallicSmoothnessMap": "",
+   "maskMap": ""
+  },
+  {
+   "name": "葉",
+   "baseColor": [
+    0.012,
+    0.05,
+    0.018,
+    1.0
+   ],
+   "metallic": 0.0,
+   "roughness": 0.42,
+   "alpha": 1.0,
+   "transmission": 0.0,
+   "emission": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "emissionStrength": 0.0,
+   "normalStrength": 1.0,
+   "baseColorMap": "",
+   "roughnessMap": "",
+   "normalMap": "",
+   "metallicSmoothnessMap": "",
+   "maskMap": ""
+  },
+  {
+   "name": "補助画面_UI",
+   "baseColor": [
+    0.004,
+    0.006,
+    0.01,
+    1.0
+   ],
+   "metallic": 0.0,
+   "roughness": 0.18,
+   "alpha": 1.0,
+   "transmission": 0.0,
+   "emission": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "emissionStrength": 1.8,
+   "normalStrength": 1.0,
+   "baseColorMap": "",
+   "roughnessMap": "",
+   "normalMap": "",
+   "metallicSmoothnessMap": "",
+   "maskMap": "",
+   "emissionMap": "Textures/モニター表示_仮UI.png"
+  },
+  {
+   "name": "補助画面_青",
+   "baseColor": [
+    0.004,
+    0.006,
+    0.01,
+    1.0
+   ],
+   "metallic": 0.0,
+   "roughness": 0.2,
+   "alpha": 1.0,
+   "transmission": 0.0,
+   "emission": [
+    0.1,
+    0.25,
+    0.5
+   ],
+   "emissionStrength": 0.45,
+   "normalStrength": 1.0,
+   "baseColorMap": "",
+   "roughnessMap": "",
+   "normalMap": "",
+   "metallicSmoothnessMap": "",
+   "maskMap": ""
+  },
+  {
+   "name": "金_ペン",
+   "baseColor": [
+    0.95,
+    0.72,
+    0.36,
+    1.0
+   ],
+   "metallic": 1.0,
+   "roughness": 0.16,
+   "alpha": 1.0,
+   "transmission": 0.0,
+   "emission": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "emissionStrength": 0.0,
+   "normalStrength": 1.0,
+   "baseColorMap": "",
+   "roughnessMap": "",
+   "normalMap": "",
+   "metallicSmoothnessMap": "",
+   "maskMap": ""
+  },
+  {
+   "name": "金属_クロム",
+   "baseColor": [
+    0.8,
+    0.81,
+    0.83,
+    1.0
+   ],
+   "metallic": 1.0,
+   "roughness": 0.07,
+   "alpha": 1.0,
+   "transmission": 0.0,
+   "emission": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "emissionStrength": 0.0,
+   "normalStrength": 1.0,
+   "baseColorMap": "",
+   "roughnessMap": "",
+   "normalMap": "",
+   "metallicSmoothnessMap": "",
+   "maskMap": ""
+  },
+  {
+   "name": "金属_サテン",
+   "baseColor": [
+    0.28,
+    0.3,
+    0.33,
+    1.0
+   ],
+   "metallic": 1.0,
+   "roughness": 0.28,
+   "alpha": 1.0,
+   "transmission": 0.0,
+   "emission": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "emissionStrength": 0.0,
+   "normalStrength": 1.0,
+   "baseColorMap": "",
+   "roughnessMap": "Textures/金属_サテン_Roughness.png",
+   "normalMap": "",
+   "metallicSmoothnessMap": "Textures/金属_サテン_MetallicSmoothness.png",
+   "maskMap": "Textures/金属_サテン_MaskMap.png",
+   "tileSize": 1.25,
+   "coordMode": "OBJECT"
+  },
+  {
+   "name": "金属_ダーク",
+   "baseColor": [
+    0.03,
+    0.033,
+    0.04,
+    1.0
+   ],
+   "metallic": 1.0,
+   "roughness": 0.36,
+   "alpha": 1.0,
+   "transmission": 0.0,
+   "emission": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "emissionStrength": 0.0,
+   "normalStrength": 1.0,
+   "baseColorMap": "",
+   "roughnessMap": "Textures/金属_ダーク_Roughness.png",
+   "normalMap": "",
+   "metallicSmoothnessMap": "Textures/金属_ダーク_MetallicSmoothness.png",
+   "maskMap": "Textures/金属_ダーク_MaskMap.png",
+   "tileSize": 0.833,
+   "coordMode": "OBJECT"
+  },
+  {
+   "name": "金属_ボルト",
+   "baseColor": [
+    0.35,
+    0.36,
+    0.38,
+    1.0
+   ],
+   "metallic": 1.0,
+   "roughness": 0.3,
+   "alpha": 1.0,
+   "transmission": 0.0,
+   "emission": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "emissionStrength": 0.0,
+   "normalStrength": 1.0,
+   "baseColorMap": "",
+   "roughnessMap": "",
+   "normalMap": "",
+   "metallicSmoothnessMap": "",
+   "maskMap": ""
+  },
+  {
+   "name": "金属_亜鉛",
+   "baseColor": [
+    0.2,
+    0.21,
+    0.225,
+    1.0
+   ],
+   "metallic": 1.0,
+   "roughness": 0.42,
+   "alpha": 1.0,
+   "transmission": 0.0,
+   "emission": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "emissionStrength": 0.0,
+   "normalStrength": 1.0,
+   "baseColorMap": "",
+   "roughnessMap": "Textures/金属_亜鉛_Roughness.png",
+   "normalMap": "",
+   "metallicSmoothnessMap": "Textures/金属_亜鉛_MetallicSmoothness.png",
+   "maskMap": "Textures/金属_亜鉛_MaskMap.png",
+   "tileSize": 1.0,
+   "coordMode": "OBJECT"
+  },
+  {
+   "name": "金属_艶黒",
+   "baseColor": [
+    0.012,
+    0.013,
+    0.016,
+    1.0
+   ],
+   "metallic": 0.9,
+   "roughness": 0.17,
+   "alpha": 1.0,
+   "transmission": 0.0,
+   "emission": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "emissionStrength": 0.0,
+   "normalStrength": 1.0,
+   "baseColorMap": "",
+   "roughnessMap": "Textures/金属_艶黒_Roughness.png",
+   "normalMap": "",
+   "metallicSmoothnessMap": "Textures/金属_艶黒_MetallicSmoothness.png",
+   "maskMap": "Textures/金属_艶黒_MaskMap.png",
+   "tileSize": 0.714,
+   "coordMode": "OBJECT"
+  },
+  {
+   "name": "金属_鋳造アルミ",
+   "baseColor": [
+    0.62,
+    0.63,
+    0.65,
+    1.0
+   ],
+   "metallic": 1.0,
+   "roughness": 0.24,
+   "alpha": 1.0,
+   "transmission": 0.0,
+   "emission": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "emissionStrength": 0.0,
+   "normalStrength": 1.0,
+   "baseColorMap": "",
+   "roughnessMap": "Textures/金属_鋳造アルミ_Roughness.png",
+   "normalMap": "",
+   "metallicSmoothnessMap": "Textures/金属_鋳造アルミ_MetallicSmoothness.png",
+   "maskMap": "Textures/金属_鋳造アルミ_MaskMap.png",
+   "tileSize": 1.667,
+   "coordMode": "OBJECT"
+  },
+  {
+   "name": "陶器_黒",
+   "baseColor": [
+    0.015,
+    0.015,
+    0.017,
+    1.0
+   ],
+   "metallic": 0.0,
+   "roughness": 0.25,
+   "alpha": 1.0,
+   "transmission": 0.0,
+   "emission": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "emissionStrength": 0.0,
+   "normalStrength": 1.0,
+   "baseColorMap": "",
+   "roughnessMap": "",
+   "normalMap": "",
+   "metallicSmoothnessMap": "",
+   "maskMap": ""
+  },
+  {
+   "name": "階段_暗石",
+   "baseColor": [
+    0.05,
+    0.054,
+    0.062,
+    1.0
+   ],
+   "metallic": 0.0,
+   "roughness": 0.42,
+   "alpha": 1.0,
+   "transmission": 0.0,
+   "emission": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "emissionStrength": 0.0,
+   "normalStrength": 1.0,
+   "baseColorMap": "",
+   "roughnessMap": "",
+   "normalMap": "",
+   "metallicSmoothnessMap": "",
+   "maskMap": ""
+  },
+  {
+   "name": "革_黒",
+   "baseColor": [
+    0.012,
+    0.012,
+    0.014,
+    1.0
+   ],
+   "metallic": 0.0,
+   "roughness": 0.42,
+   "alpha": 1.0,
+   "transmission": 0.0,
+   "emission": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "emissionStrength": 0.0,
+   "normalStrength": 1.0,
+   "baseColorMap": "",
+   "roughnessMap": "Textures/革_黒_Roughness.png",
+   "normalMap": "Textures/革_黒_Normal.png",
+   "metallicSmoothnessMap": "Textures/革_黒_MetallicSmoothness.png",
+   "maskMap": "Textures/革_黒_MaskMap.png",
+   "tileSize": 0.385,
+   "coordMode": "OBJECT"
+  },
+  {
+   "name": "黒ガラス床",
+   "baseColor": [
+    0.2,
+    0.24,
+    0.3,
+    1.0
+   ],
+   "metallic": 0.0,
+   "roughness": 0.035,
+   "alpha": 1.0,
+   "transmission": 0.82,
+   "emission": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "emissionStrength": 0.0,
+   "normalStrength": 1.0,
+   "baseColorMap": "",
+   "roughnessMap": "",
+   "normalMap": "",
+   "metallicSmoothnessMap": "",
+   "maskMap": ""
+  }
+ ]
+}
